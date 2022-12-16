@@ -28,4 +28,3 @@ time.sleep(2)
 f.close()
 time.sleep(4)
 driver.quit()
-# https://www.youtube.com/watch?v=f7LEWxX4AVI
